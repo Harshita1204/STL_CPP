@@ -34,6 +34,8 @@ int main() {
       cout<<mini.top()<<" "; // prints smallest element
       mini.pop(); // removes top element
   }cout<<endl;
-  
+
+  cout<< "empty or not"<<mini.empty()<<endl;  // 1
+   cout<< "empty or not"<<maxi.empty()<<endl; // 1 because we are popping every element after printing it
     return 0;
 }
