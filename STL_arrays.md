@@ -5,7 +5,7 @@ It works like a normal array but provides built-in functions and better safety.
  Header file:
 #include <array>
 
-->  How to Initialize an STL Array
+->  How to Initialize an STL Array :
 1. Basic Initialization
 array<int, 5> arr = {1, 2, 3, 4, 5};
 
