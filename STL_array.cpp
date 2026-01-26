@@ -11,5 +11,5 @@ int main() {
 
     a.fill(10);
     for (int x : a) cout << x << " ";
-    // Output: 10 10 10 10 10
+    // Output: 10 10 10 10 10 
 }
